@@ -23,6 +23,6 @@
     "react-loadable-ssr-addon": "^0.1.9",
     "react-redux": "^7.1.0",
     "react-router": "^5.0.1",
-    "serialize-javascript": "^1.7.0"
+    "serialize-javascript": "^3.1.0"
   }
 }
